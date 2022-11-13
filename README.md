@@ -1,5 +1,5 @@
+![image](https://user-images.githubusercontent.com/112322160/201530675-7edb4bdf-77ec-4a70-ad3b-a9ec276bcc27.png)
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5563726-Working-On-It&psig=AOvVaw3FoNodCoiXqIrFPuSeRuai&ust=1668439682716000&source=images&cd=vfe&ved=2ahUKEwik5ZqmvKv7AhVQt6QKHWBcCJAQjRx6BAgAEAo"/>
 
 <h1 align="center">Hi 👋, I'm Nelson Mondoa</h1>
 <h3 align="center">A passionate Data Analyst</h3>
