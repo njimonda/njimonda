@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/112322160/201530675-7edb4bdf-77ec-4a70-ad3b-a9ec276bcc27.png)
+![Alt Text](https://cdn.dribbble.com/users/1825657/screenshots/5563726/media/3bf68942b8a84bef1ebcb1cb09b10264.gif)
 
 
 <h1 align="center">Hi 👋, I'm Nelson Mondoa</h1>
