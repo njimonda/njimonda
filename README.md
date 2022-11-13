@@ -1,4 +1,5 @@
-![Alt Text](https://cdn.dribbble.com/users/1825657/screenshots/5563726/media/3bf68942b8a84bef1ebcb1cb09b10264.gif)
+
+<img src="https://cdn.dribbble.com/users/1825657/screenshots/5563726/media/3bf68942b8a84bef1ebcb1cb09b10264.gif" width="40" height="40" />
 
 
 <h1 align="center">Hi 👋, I'm Nelson Mondoa</h1>
