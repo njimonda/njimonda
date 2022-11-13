@@ -1,5 +1,5 @@
 
-<img src="https://cdn.dribbble.com/users/1825657/screenshots/5563726/media/3bf68942b8a84bef1ebcb1cb09b10264.gif" width="40" height="40" />
+<img src="https://cdn.dribbble.com/users/1813781/screenshots/5629008/media/0cd51b82f393028760286796a0145034.gif" width="400" height="100" />
 
 
 <h1 align="center">Hi 👋, I'm Nelson Mondoa</h1>
