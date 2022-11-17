@@ -1,33 +1,108 @@
+# Hi, I am Pranay! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
 
-<img src="https://cdn.dribbble.com/users/1825657/screenshots/5563726/media/3bf68942b8a84bef1ebcb1cb09b10264.gif" width="1000" height="400" />
+I am [Pranay Gupta](http://thepranaygupta.github.io/), currently pursuing my B.Tech degree in Information Technology from [Asansol Engineering College](https://www.aecwb.edu.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranaygupta.aec@gmail.com)](mailto:pranaygupta.aec@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thepranaygupta/)](https://www.linkedin.com/in/thepranaygupta/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thepranaygupta)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pranayguptaa)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/745686149359599707)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranayguptaa/)](https://instagram.com/pranayguptaa)<!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://thepranaygupta.hashnode.dev/)](https://thepranaygupta.hashnode.dev/) -->
 
-<h1 align="center">Hi 👋, I'm Nelson Mondoa</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<!-- [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://thepranaygupta.github.io/)](https://thepranaygupta.github.io/) -->
+<!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/channel_id) -->
 
-<p align="left"> <a href="https://twitter.com/njimonda" target="blank"><img src="https://img.shields.io/twitter/follow/njimonda?logo=twitter&style=for-the-badge" alt="njimonda" /></a> </p>
+[![Pranay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thepranaygupta&theme=xcode)](https://github.com/thepranaygupta)
 
-- 📝 I regularly write articles on [https://medium.com/@njimonda.co](https://medium.com/@njimonda.co)
+## 👨🏻‍💻 Coding Profiles
 
-- 📫 How to reach me **njimonda.co@gmail.com**
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/thepranaygupta/)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/thepranaygupta)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/thepranaygupta)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/thepranaygupta)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## ⚡ Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/njimonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="njimonda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nelson-mondoa-99777b236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelson-mondoa-99777b236" height="30" width="40" /></a>
-<a href="https://medium.com/@njimonda.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@njimonda.co" height="30" width="40" /></a>
+### Language
+
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+### Libraries & Framework
+
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) -->
+[![Numpy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&style=flat-square&logoColor=white)](https://numpy.org/)
+
+### Tools:
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
+
+<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
+<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
+
+## 📈 Stats
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=thepranaygupta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thepranaygupta&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepranaygupta&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2041%20mins-blue)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=njimonda&show_icons=true&locale=en&layout=compact" alt="njimonda" /></p>
+📊 **This Week I Spent My Time On** 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=njimonda&show_icons=true&locale=en" alt="njimonda" /></p>
+```text
+⌚︎ Time Zone: Asia/Kolkata
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njimonda&" alt="njimonda" /></p>
+💬 Programming Languages: 
+JavaScript               3 hrs 48 mins       █████████████████░░░░░░░░   70.83% 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
+HTML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.5% 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
 
+🔥 Editors: 
+VS Code                  5 hrs 22 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  5 hrs 22 mins       █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 17/11/2022 19:34:43 UTC
+<!--END_SECTION:waka-->
+
+## :zap: Recent Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#452](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/452) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+2. ❗️ Closed issue [#444](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues/444) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+3. 🎉 Merged PR [#445](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/445) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+4. ❗️ Closed issue [#2503](https://github.com/EddieHubCommunity/support/issues/2503) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❌ Closed PR [#1](https://github.com/vikkshdotsoni/vikash-kr-soni-portfolio.github.io/pull/1) in [vikkshdotsoni/vikash-kr-soni-portfolio.github.io](https://github.com/vikkshdotsoni/vikash-kr-soni-portfolio.github.io)
+<!--END_SECTION:activity-->
+
+<!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
