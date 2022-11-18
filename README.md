@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/njimonda" target="blank"><img src="https://img.shields.io/twitter/follow/njimonda?logo=twitter&style=for-the-badge" alt="njimonda" /></a> </p>
 
+- 📝 My portfolio [https://njimonda.github.io/](https://njimonda.github.io/)
+
 - 📝 I regularly write articles on [https://medium.com/@njimonda.co](https://medium.com/@njimonda.co)
 
 - 📫 How to reach me **njimonda.co@gmail.com**
