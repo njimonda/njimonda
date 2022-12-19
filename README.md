@@ -19,11 +19,9 @@
 
 - 📫 How to reach me **njimonda.co@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+
+##  ⚡ Online Profiles
 <p align="left">
 <a href="https://twitter.com/njimonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="njimonda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nelson-mondoa-99777b236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelson-mondoa-99777b236" height="30" width="40" /></a>
@@ -56,7 +54,7 @@
 ](https://github.com/njimonda/Cost-of-Living-Index-2022)
 
 
-## Connect With Me
+##  ⚡ Connect With Me
 
 <div align="center">
   
