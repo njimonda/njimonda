@@ -1,4 +1,24 @@
 
+### Hi there 👋
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=2AF700&background=00FFE400&center=true&width=435&lines=It's+Tejender+Upadhyay+here;Computer+Science+Undergraduate;Full+Stack(MERN+Stack)+Developer)](https://git.io/typing-svg)
+
+
+![Snake animation](https://github.com/Tejender1521/Tejender1521/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+<img align="right"  alt="GIF" src="https://github.com/Tejender1521/Tejender1521/blob/master/Header.webp?raw=true" width="450" height="300" />
+<br>
+<br>
+
+
+
+
+
+
 <img src="https://cdn.dribbble.com/users/1825657/screenshots/5563726/media/3bf68942b8a84bef1ebcb1cb09b10264.gif" width="1000" height="400" />
 
 
@@ -36,13 +56,13 @@
 <br/><br/>
 
 
-## 🗄 Recent projects:
+## 🗄 Ongoing projects:
 
 
-[![React-Color-Picker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=ColorPicker&show_owner=true&theme=dark)]([https://github.com/J4Web/ColorPicker](https://github.com/njimonda/Household-Expense-Analysis-With-Microsoft-Excel))
+[![React-Color-Picker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=ColorPicker&show_owner=true&theme=dark)]([https://github.com/njimonda/Household-Expense-Analysis-With-Microsoft-Excel](https://github.com/njimonda/Household-Expense-Analysis-With-Microsoft-Excel)
 
 
-[![Covid-19 Tracker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=Covid_Tracker&show_owner=true&theme=dark)]([https://github.com/J4Web/Covid_Tracker](https://github.com/njimonda/GDP-by-Country-1999-2022))
+[![Covid-19 Tracker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=Covid_Tracker&show_owner=true&theme=dark)]([https://github.com/njimonda/GDP-by-Country-1999-2022](https://github.com/njimonda/GDP-by-Country-1999-2022)
 
 [![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=sparkbanking&show_owner=true&theme=dark)
 ](https://github.com/njimonda/Cost-of-Living-Index-2022)
@@ -62,32 +82,9 @@
 
 </div>
 
-<br/><br/>
-
-
-### Hi there 👋
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=2AF700&background=00FFE400&center=true&width=435&lines=It's+Tejender+Upadhyay+here;Computer+Science+Undergraduate;Full+Stack(MERN+Stack)+Developer)](https://git.io/typing-svg)
-
-
-![Snake animation](https://github.com/Tejender1521/Tejender1521/blob/output/github-contribution-grid-snake.svg)
 
 
 
-
-<img align="right"  alt="GIF" src="https://github.com/Tejender1521/Tejender1521/blob/master/Header.webp?raw=true" width="450" height="300" />
-<br>
-<br>
-
-
-
-
-
-
-
-<img height="150" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
 
