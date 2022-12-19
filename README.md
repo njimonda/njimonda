@@ -1,8 +1,4 @@
-
-### Hi there 👋
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=2AF700&background=00FFE400&center=true&width=435&lines=Hi+There+👋;Welcome+To+My+Space)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=2AF700&background=00FFE400&center=true&width=435&lines=Hi+There+👋;Welcome+To+My+Spot)](https://git.io/typing-svg)
 
 
 ![Snake animation](https://github.com/Tejender1521/Tejender1521/blob/output/github-contribution-grid-snake.svg)
@@ -10,18 +6,9 @@
 
 <img src="https://github.com/Tejender1521/Tejender1521/blob/master/Header.webp?raw=true"  width="1000" height="400" />
 
-<br>
-<br>
 
 
-
-
-
-
-<img src="https://cdn.dribbble.com/users/1825657/screenshots/5563726/media/3bf68942b8a84bef1ebcb1cb09b10264.gif" width="1000" height="400" />
-
-
-<h1 align="center">Hi 👋, I'm Nelson Mondoa</h1>
+<h1 align="center">I'm Nelson Mondoa</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <a href="https://twitter.com/njimonda" target="blank"><img src="https://img.shields.io/twitter/follow/njimonda?logo=twitter&style=for-the-badge" alt="njimonda" /></a> </p>
