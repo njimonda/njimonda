@@ -44,13 +44,15 @@
 
 ## 🗄 Ongoing projects:
 
+[![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=njimonda&repo=Household-Expense-Analysis-With-Microsoft-Excel&show_owner=true&theme=dark)
+](https://github.com/njimonda/Household-Expense-Analysis-With-Microsoft-Excel)
 
-[![React-Color-Picker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=ColorPicker&show_owner=true&theme=dark)]([https://github.com/njimonda/Household-Expense-Analysis-With-Microsoft-Excel](https://github.com/njimonda/Household-Expense-Analysis-With-Microsoft-Excel)
+
+[![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=njimonda&repo=GDP-by-Country-1999-2022&show_owner=true&theme=dark)
+](https://github.com/njimonda/GDP-by-Country-1999-2022)
 
 
-[![Covid-19 Tracker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=Covid_Tracker&show_owner=true&theme=dark)]([https://github.com/njimonda/GDP-by-Country-1999-2022](https://github.com/njimonda/GDP-by-Country-1999-2022)
-
-[![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=sparkbanking&show_owner=true&theme=dark)
+[![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=njimonda&repo=Cost-of-Living-Index-2022&show_owner=true&theme=dark)
 ](https://github.com/njimonda/Cost-of-Living-Index-2022)
 
 
@@ -61,8 +63,7 @@
 <img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" alt="Bye!" width="300"/>
 
 <i>Follow me around the web:</i><br>
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/njimonda?style=social&label=Follow%20%njimonda)](https://twitter.com/njimonda)
-<a href="https://www.linkedin.com/in/nelson-mondoa-99777b236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 </div>
 
 
@@ -77,6 +78,3 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
-
-
-
