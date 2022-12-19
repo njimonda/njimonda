@@ -36,35 +36,16 @@
 <br/><br/>
 
 
-<div align="center">
-<h2> 𝐇𝐞y 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! &nbsp<img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px"></h2>
-</div>
-
-<div align="center" width="50">
-
-<img src="https://github.com/J4Web/j4web/blob/main/wel.gif" alt="Welcome!" width="600"/>
-
-</div>
-
-<div align="center">
-
-Welcome to my Github profile. <br>
-Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/j4web/j4web/issues/new"><b>here</b></a><br>
-or <a href="mailto:prakhar2023ec@gmail.com"><b>email</b></a> me
-
-</div>
+## 🗄 Recent projects:
 
 
-## 🗄 My projects:
+[![React-Color-Picker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=ColorPicker&show_owner=true&theme=dark)]([https://github.com/J4Web/ColorPicker](https://github.com/njimonda/Household-Expense-Analysis-With-Microsoft-Excel))
 
 
-[![React-Color-Picker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=ColorPicker&show_owner=true&theme=dark)](https://github.com/J4Web/ColorPicker)
-
-[![Covid-19 Tracker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=Covid_Tracker&show_owner=true&theme=dark)](https://github.com/J4Web/Covid_Tracker)
+[![Covid-19 Tracker ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=Covid_Tracker&show_owner=true&theme=dark)]([https://github.com/J4Web/Covid_Tracker](https://github.com/njimonda/GDP-by-Country-1999-2022))
 
 [![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=j4web&repo=sparkbanking&show_owner=true&theme=dark)
-](https://github.com/J4Web/sparkbanking)
+](https://github.com/njimonda/Cost-of-Living-Index-2022)
 
 
 ## GitHub Stats
