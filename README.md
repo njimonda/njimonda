@@ -42,16 +42,20 @@
 
 ## 🗄 Ongoing projects:
 
-[![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=njimonda&repo=Household-Expense-Analysis-With-Microsoft-Excel&show_owner=true&theme=dark)
+[![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=njimonda&repo=Household-Expense-Analysis-With-Microsoft-Excel&show_owner=true&theme=light)
 ](https://github.com/njimonda/Household-Expense-Analysis-With-Microsoft-Excel)
 
 
-[![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=njimonda&repo=GDP-by-Country-1999-2022&show_owner=true&theme=dark)
+[![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=njimonda&repo=GDP-by-Country-1999-2022&show_owner=true&theme=light)
 ](https://github.com/njimonda/GDP-by-Country-1999-2022)
 
 
-[![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=njimonda&repo=Cost-of-Living-Index-2022&show_owner=true&theme=dark)
+[![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=njimonda&repo=Cost-of-Living-Index-2022&show_owner=true&theme=light)
 ](https://github.com/njimonda/Cost-of-Living-Index-2022)
+
+
+[![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=njimonda&repo=Survey-Analysis&show_owner=true&theme=light)
+](https://github.com/njimonda/Survey-Analysis)
 
 
 ##  ⚡ Connect With Me
