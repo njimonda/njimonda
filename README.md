@@ -54,19 +54,23 @@
 ](https://github.com/njimonda/Cost-of-Living-Index-2022)
 
 
-## GitHub Stats
+## Connect With Me
 
----
 <div align="center">
   
 <img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" alt="Bye!" width="300"/>
 
 <i>Follow me around the web:</i><br>
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/j4web31.svg?style=social&label=Follow%20%40j4web)](https://twitter.com/j4web31)
-<a href="https://www.linkedin.com/in/prakhar-srivastava-427904194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/Prakhar_31_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/njimonda?style=social&label=Follow%20%njimonda)](https://twitter.com/njimonda)
+<a href="https://www.linkedin.com/in/nelson-mondoa-99777b236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
+
+
+<p align="center">
+<a href="https://twitter.com/njimonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="njimonda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nelson-mondoa-99777b236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelson-mondoa-99777b236" height="30" width="40" /></a>
+<a href="https://medium.com/@njimonda.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@njimonda.co" height="30" width="40" /></a>
+</p>
 
 
 
